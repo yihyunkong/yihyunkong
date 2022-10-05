@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=yihyunkong🖐🏻&animation=twinkling&fontColor=ffffff&fontSize=30&fontAlignY=30)
 
 <!--
 **yihyunkong/yihyunkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
