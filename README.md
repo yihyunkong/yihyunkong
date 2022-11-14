@@ -2,10 +2,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yihyunkong&langs_count=8&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **yihyunkong/yihyunkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
