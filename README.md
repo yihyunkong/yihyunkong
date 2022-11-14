@@ -5,7 +5,7 @@
 ### 📌 stack
 - front-end : JavaScript, React, 
 -  back-end : Java Spring (Maven, Gradle)
-- Data Base : Oracle sql
+- DataBase : Oracle sql
 
 <!--
 **yihyunkong/yihyunkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
