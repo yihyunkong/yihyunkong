@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=200&text=yihyunkong🖐🏻&animation=twinkling&fontColor=ffffff&fontSize=30&fontAlignY=30)
 
-### 📌 stack
-<br>
-
-### 📫 How to reach me: mlzzh@naver.com
-
 <!--
 **yihyunkong/yihyunkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
