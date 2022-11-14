@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=black&height=200&text=yihyunkong🖐🏻&animation=twinkling&fontColor=ffffff&fontSize=30&fontAlignY=30)
 
 ### 📌 stack
-- front-end : JavaScript, React, 
--  back-end : Java Spring (Maven, Gradle)
-- dataBase : Oracle sql
-
 <br>
 
 ### 📫 How to reach me: mlzzh@naver.com
